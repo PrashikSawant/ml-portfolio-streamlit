@@ -3,7 +3,7 @@
 A comprehensive Streamlit web application showcasing my machine learning projects and data science skills.
 
 ## 🚀 Live Demo
-[View Live App](https://your-app-url-here.streamlit.app) *(Update this link after deployment)*
+[View Live App](https://prashiksawant-ml-portfolio-app.streamlit.app/) 
 
 ## 📋 Projects Included
 
